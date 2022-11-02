@@ -19,7 +19,9 @@ countOper = int(input("Сколько операндов? "))
 if typeOper == "+":
 	additionN(countOper)
 else:
-	print("Операция не распознана!")	
+	print("Операция не распознана!")
+	print("Что еще?")	
+	
 
 	
 	
