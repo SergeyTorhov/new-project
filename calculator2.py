@@ -11,7 +11,7 @@ def additionN(n):
 			summ += a
 			strN += str(a)+" = " + str(summ)
 			print(strN)
-
+			print("Что еще?")	
 		
 typeOper = input("Выберите операцию: ")
 countOper = int(input("Сколько операндов? "))
