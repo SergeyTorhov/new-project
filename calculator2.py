@@ -20,6 +20,3 @@ if typeOper == "+":
 	additionN(countOper)
 else:
 	print("Операция не распознана!")
-	print("Что еще?")	
-	print("Что еще?Еще?")	
-	print("Что еще?Еще?Tot?")		
