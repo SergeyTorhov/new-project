@@ -20,3 +20,4 @@ if typeOper == "+":
 	additionN(countOper)
 else:
 	print("Операция не распознана!")
+	print("Что-то еще?")
